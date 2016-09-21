@@ -3,7 +3,11 @@ h1 {
   margin-left: 900px;
   font-size: 50px;	
 }
+<<<<<<< HEAD
 m {
+=======
+div {
+>>>>>>> refs/remotes/origin/master
   color: #990000;
 <<<<<<< HEAD
   margin-left: 650px;
@@ -14,9 +18,15 @@ m {
  }
  img {width: 50%;
 <<<<<<< HEAD
+<<<<<<< HEAD
  	margin-left: 2px;
 =======
  	margin-left: 481px; 
 >>>>>>> refs/remotes/origin/master
 
  }
+=======
+ 	margin-left: 500px; 
+
+ } 
+>>>>>>> refs/remotes/origin/master
