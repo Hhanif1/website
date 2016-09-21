@@ -5,7 +5,11 @@ h1 {
 }
 m {
   color: #990000;
+<<<<<<< HEAD
   margin-left: 650px;
+=======
+  margin-left: 600px;
+>>>>>>> refs/remotes/origin/master
   font-size: 31px;
  }
  img {width: 50%;
